@@ -82,22 +82,23 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=DevSouravX&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" 
-    alt="GitHub stats" 
+    src="https://github-readme-stats.vercel.app/api?username=DevSouravX&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=DevSouravX&theme=tokyonight&hide_border=false" 
-    alt="GitHub streak" 
+    src="https://streak-stats.demolab.com?user=DevSouravX&theme=tokyonight&hide_border=true"
+    alt="GitHub streak"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSouravX&layout=compact&theme=tokyonight&cache_seconds=1800" 
-    alt="Top languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSouravX&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top languages"
   />
 </p>
+
 
