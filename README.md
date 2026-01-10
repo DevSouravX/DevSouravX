@@ -78,27 +78,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Progress
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=DevSouravX&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub stats"
-  />
+  <img src="https://img.shields.io/github/followers/DevSouravX?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/DevSouravX?affiliations=OWNER&label=Stars&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/DevSouravX/DevSouravX?label=Profile%20Repo&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=DevSouravX&theme=tokyonight&hide_border=true"
-    alt="GitHub streak"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevSouravX&theme=tokyo-night" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSouravX&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top languages"
-  />
-</p>
 
 
