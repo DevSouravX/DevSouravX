@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full Stack | Cloud & AI Enthusiast</h3>
 
 <p align="center">
-Building reliable, scalable end-to-end systems using Python, cloud platforms, and modern web technologies.
+Building reliable, scalable end-to-end systems using C++, Python, cloud platforms, and modern web technologies.
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@ Building reliable, scalable end-to-end systems using Python, cloud platforms, an
 ---
 
 ## 🚀 About Me
-- 🎓 Computer Science Engineer (BE CSE, CGPA: 8.26)
+- 🎓 Computer Science Engineer (BE CSE 2025, CGPA: 8.26)
 - 💻 Software Engineer with hands-on experience in **Python, cloud-based systems & AI/ML fundamentals**
 - 🔍 Focused on building **reliable, testable, and scalable systems**
 - 🧠 Strong foundation in **APIs, System Design & Distributed Cloud Architectures**
